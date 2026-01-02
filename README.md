@@ -1,6 +1,6 @@
-<div>
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=250&section=header&text=Hi,%20I'm%20Yujin%20!&fontSize=70)
-</div>
+fl<div>
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/a/pi?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 ### 🧱 Current Focus
 <img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=Linux&logoColor=white"/>
