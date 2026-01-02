@@ -1,19 +1,18 @@
-fl<div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/a/pi?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+<div>
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=300&section=header&text=Good%20to%20see%20you%20👋&fontSize=70)
+</div>
 
-### 🧱 Current Focus
-<img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=Linux&logoColor=white"/>
-
-### 🚀 Future Roadmap
-<img src="https://img.shields.io/badge/Django-6A0DAD?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-6A0DAD?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
----
+&nbsp;
 
 ## 👀 About Me
 * 🚀 I'm currently working on **building my identity as a Backend Developer**.
 * 🌱 I am learning **Python**, **Git**, and **Linux** at **OZ Coding School**.
 * 💬 Ask me about **how I finally figured out my README!**
+
+---
+
+### 🧱 Current Focus
+<img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 ---
 
