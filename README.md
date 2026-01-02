@@ -1,10 +1,10 @@
 # Hi, I'm Yoojin❕
 
 ### 🧱 Current Focus
-<img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-6A0DAD?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-6A0DAD?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 ### 🚀 Future Roadmap
-<img src="https://img.shields.io/badge/Django-6A0DAD?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-6A0DAD?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-6A0DAD?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-6A0DAD?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-6A0DAD?style=for-the-badge&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-6A0DAD?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-6A0DAD?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-6A0DAD?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-6A0DAD?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-6A0DAD?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 ---
 
